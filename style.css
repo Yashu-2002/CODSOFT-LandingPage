@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vwp;
+}
+.navbar{
+    display: flex;
+    height: 12px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
